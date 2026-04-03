@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+
+# Plugin state
+.omc/
